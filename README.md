@@ -1,7 +1,7 @@
 # Projeto--02---Instagram
 
 <p align="center">
-  <img width="500px "src="https://user-images.githubusercontent.com/97575616/157592388-81c0e474-f2bc-40db-8aba-640a7843f70f.png">
+  <img width="500px "src="https://user-images.githubusercontent.com/80592317/168443455-442e3c76-641a-4567-a961-786cc981eba8.jpg">
 </p>
 
 <h1 align="center">Projeto Instagram</h1>
